@@ -21,7 +21,7 @@ Note (m.u.) is shorthand for *monetary units*.
 5) `Detergents_Paper`: annual spending (m.u.) on detergents and paper products (Continuous);
 6) `Delicatessen`: annual spending (m.u.) on and delicatessen products (Continuous); 
 7) `Channel`: {Hotel/Restaurant/Cafe - 1, Retail - 2} (Nominal)
-8) `Region`: {Lisnon - 1, Oporto - 2, or Other - 3} (Nominal) 
+8) `Region`: {Lisbon - 1, Oporto - 2, or Other - 3} (Nominal) 
 
 ### Install
 
